@@ -10,7 +10,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Practica 1: Refexiones
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** P1.1 reflexiones
+- **ID de la Actividad:** P1.1
 - **Módulo:**  EDES
 - **Unidad de Trabajo:** 1º DAW A
 - **Fecha de Creación:**   15/10/2024
