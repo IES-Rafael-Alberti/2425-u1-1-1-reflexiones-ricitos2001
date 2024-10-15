@@ -7,7 +7,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 ---
 
-# Título de la Actividad
+# Practica 1: Refexiones
 
 ## Identificación de la Actividad
 - **ID de la Actividad:** P1.1 reflexiones
@@ -22,10 +22,6 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 ## Descripción de la Actividad
 en esta actividad se responderan a una serie de preguntas con dl objetivo de reflexionar sobre lo aprendido hasta hoy en entornos de desarrollo
-
-## Desarrollo de la Actividad
-### Descripción del Desarrollo
-a continuacion realizaremos una serie de preguntas
 
 #### Relación software y hardware
 1. ¿Cómo se ejecuta el código en el procesador?
